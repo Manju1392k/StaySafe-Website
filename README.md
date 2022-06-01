@@ -1,18 +1,18 @@
 # ℹ️ StaySafe Website.
 
-
+* ### StaySafe is a website booking Hotels. 🏩🏨
 
 ---
 
 # 👁️‍🗨️ Preview of StaySafe 
 
-
+https://user-images.githubusercontent.com/66934377/171338673-cfb1c70d-655a-4577-803e-0bc76c894940.mp4
 
 ---
 
 # 📱 Preview of Responsive Desgin
 
-
+https://user-images.githubusercontent.com/66934377/171338682-5d9be609-5b21-4a51-834e-56cc450b648a.mp4
 
 ---
 
